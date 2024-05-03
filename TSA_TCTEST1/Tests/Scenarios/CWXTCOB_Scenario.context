@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="172.19.4.200:16196" logLevel="VERBOSE_E" remote="false" useSimulations="true" uploadResult="false" timeout="600" readTimeout="30" debuggerType="CCEXPEDITER" jobInfoInterval="3" useRepository="false" ccrepository="PFHTXY0.XT.REPOSIT" ccsystem="PAYROLL" cctestid="CCTSATCY1" ccprogramtype="TOTALTEST - TTTRUNNR" ccreset="false" ccshow="true">
+  <ExtensionData>
+    <Parameter key="unittest.loadlibraries">
+      <Value>CEE.SCEERUN</Value>
+      <Value>PFHTXY0.TSO.LOAD</Value>
+    </Parameter>
+  </ExtensionData>
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTCOB" caseInsensitiveCompare="false" path="CWXTCOB_Scenario.testscenario">
+    <Test>
+      <Unittest testscenariopath="CWXTCOB_Scenario.testscenario" moduleName="CWXTCOB" />
+    </Test>
+  </XaUnit>
+</ExecutionContext>
