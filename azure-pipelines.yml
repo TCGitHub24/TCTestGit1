@@ -22,7 +22,7 @@ steps:
     HCIConnection: 'CW01:16196'
     UserID: 'PFHTXY0'
     Password: 'NewHope1'
-    TestLocationPath: 'C:\Users\tyanish\BMC\DevX Workbench Workspaces\DevX_WB_v23.02.01_Workspace_Jan2024\TSA_TCTEST1'
+    TestLocationPath: 'C:\Users\tyanish\BMC\DevX Workbench Workspaces\DevX_WB_v23.02.01_Workspace_Jan2024\TSA_TCTEST1\Tests\Scenarios'
     CLIInstallationPath: 'C:\WorkbenchCLI_v23.2.2'
     Configuration: 'LocalTTTConf'
     LocalTTTConfiguration: 'C:\Users\tyanish\BMC\DevX Workbench Workspaces\DevX_WB_v23.02.01_Workspace_Jan2024\TotalTestConfiguration'
